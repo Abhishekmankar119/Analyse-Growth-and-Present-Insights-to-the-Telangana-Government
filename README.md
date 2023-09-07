@@ -1,6 +1,9 @@
 # Analyse Growth and Present Insights to the Telangana Government
 # By Abhishek Mankar
 
+![Screenshot 2023-09-08 002833](https://github.com/Abhishekmankar119/Analyse-Growth-and-Present-Insights-to-the-Telangana-Government/assets/132440202/4c9a291b-4a48-48ad-9b7c-62a1fb304e8f)
+
+
 🌟 Hello Folks! I am thrilled to share my submission for the #7 Resume Project Challenge by codebasics, The project was on the Telangana Growth Analysis where I had the incredible opportunity to analyze and provide valuable insights into the growth of Telangana, one of India's fastest-growing states. 
 
 📊 Project Overview:
