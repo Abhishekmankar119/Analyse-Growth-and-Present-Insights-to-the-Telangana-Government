@@ -1,4 +1,6 @@
 # Analyse Growth and Present Insights to the Telangana Government
+# By Abhishek Mankar
+
 🌟 Hello Folks! I am thrilled to share my submission for the #7 Resume Project Challenge by codebasics, The project was on the Telangana Growth Analysis where I had the incredible opportunity to analyze and provide valuable insights into the growth of Telangana, one of India's fastest-growing states. 
 
 📊 Project Overview:
@@ -42,4 +44,9 @@ To sustain this growth, I propose:
 
 📝 Conclusion:
 The current Telangana government has implemented impactful policies and initiatives to boost economic growth, investments, and employment in the state.
+
+Abhishek Mankar                                                                                                                                                                            
+abhishekmankar119@gmail.com                                                                                                                                                                
+9623478035
+
 
