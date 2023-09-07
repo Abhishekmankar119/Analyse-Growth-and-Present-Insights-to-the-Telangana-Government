@@ -45,8 +45,11 @@ To sustain this growth, I propose:
 📝 Conclusion:
 The current Telangana government has implemented impactful policies and initiatives to boost economic growth, investments, and employment in the state.
 
+Connect with me:
 Abhishek Mankar                                                                                                                                                                            
-abhishekmankar119@gmail.com                                                                                                                                                                
+abhishekmankar119@gmail.com                                                                                                                                                               
+https://www.linkedin.com/in/abhishek-mankar/      
+
 9623478035
 
 
